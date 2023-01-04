@@ -28,3 +28,11 @@
 - File 2 : Transfer Learning - Horses vs Humans
 <br></br>
 
+## 4. Fourth-Week
+- Housing Prices
+    - Using the Google colab 
+    - options : Runtime(GPU/Standard)
+<br></br>
+- File 1 : Ungraded Lab: Multi-class Classifier
+- File 2 : Classification: Beyond two classes
+<br></br>
